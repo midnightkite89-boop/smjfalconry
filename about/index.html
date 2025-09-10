@@ -1,0 +1,88 @@
+<?php
+    $Page = "About Us";
+
+    $OGType = 'website';
+    $PageTitle = "About SMJ Falconry | Birds Of Prey Experiences &amp; Services";
+    $PageDescr = "We have been involved with birds of prey for more than a decade and have years of experience providing exciting activities and services to people with our birds of prey. Learn more about our team and birds.";
+    $PageImage = 'site-files/images/og-images/white-faced-scops-owl-smj-falconry.jpg';
+    $PageKeywords = "about smj falconry, staff smj falconry";
+
+    include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/doctype.php') ;
+    include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/head.php');
+?>
+
+<body>
+    <!-- Breadcrumbs for Google -->
+    <div itemscope itemtype="http://schema.org/BreadcrumbList">
+        <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <link itemprop="item" href="http://www.smjfalconry.co.uk">
+		  <meta itemprop="name" content="Birds Of Prey Experiences &amp; Services">
+		  <meta itemprop="position" content="1">
+        </div>
+        <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <link itemprop="item" href="<?php echo 'http://'.$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];?>">
+		  <meta itemprop="name" content="About SMJ Falconry">
+		  <meta itemprop="position" content="2">
+        </div>
+	</div>
+	<!-- URL for Entire-Page-Level Metadata -->
+    <link itemprop="url" href="<?php echo 'http://'.$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];?>">
+	<!-- Page Content from here onwards... -->
+    <div id="page-wrapper">
+        <div class="page-inner">
+           <?php include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/header.php') ;?>
+
+            <section class="main-content">
+                <div class="container">
+                    
+                    <h1>About SMJ Falconry</h1>
+                    <p>We have been involved with birds of prey for more than a decade and have years of experience providing exciting activities and services to people with our birds of prey.</p>
+                    
+					<h2>Our Team</h2>
+					<?php include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/staff-list.php') ; ?>
+					<!--
+                    <aside>
+					  <h2>Some Of Our Birds</h2>
+					  <?php include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/sections/dynamic-birds-list-about.php') ; ?>
+					</aside>
+					-->
+					<h2>Our Birds</h2>
+                    <p>We have a large collection of birds of prey, including:</p>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <h3><u>The owls</u></h3>
+                        <p>We have Barns owls, a Little owl, Scops owls, White Faced owls, a Boobook owl, an Ashy Faced owl, European Eagle owl, Bengal Eagle owls, an Asian Brown Wood owl, Snowy owls, a Burrowing owl, a Great Grey owl, a Northern Hawk owl, a Long-eared owl, a Chaco owl, a Canadian Great Horned owl, an African Spotted Eagle owl, a MacKinder’s Eagle owl, a Tawny owl, a Tropical Screech owl and a Siberian Eagle owl.</p>
+                      </div>
+                      <div class="col-sm-6">
+                        <h3><u>The falcons</u></h3>
+                        <p>Peregrine falcon, Saker falcons, Lanner falcons, Gyr hybrid falcons, Merlins, American Kestrels and Eurasian (british) Kestrels.</p>
+                        <h3><u>The hawks</u></h3>
+                        <p>Harris hawks, a Common Buzzard and a Red-tailed buzzard</p>
+                        <h3><u>Other birds</u></h3>
+                        <p>A Steppe eagle, Hooded vulture, Black kite, Red kite and a clever Raven!</p>
+                      </div>
+                    </div>
+					
+                    <h2>Location</h2>
+                    <p>You can come to us, or we can bring our birds to you. To enable us to provide you with the best, most personal experience we are a private falconry centre and visiting us is only available with a booking of one of our experiences. This means you get well looked after by a team dedicated to you and an in-depth, uninterrupted, engaging experience.</p>
+                    <p>We’re located in Oxenhope, West Yorkshire, which is close to the adjoining borders of West Yorkshire, North Yorkshire and Lancashire, in the UK.</p> 
+                    <p>Our private bird of prey centre is set in beautiful countryside, also only 2.5 miles away from the picture-postcard village of Haworth.  It is an area of natural beauty and distinctive character. The landscape is rugged moorland, hills and valleys, interspersed by pretty reservoirs (a setting made famous by the descriptions it inspired in Emily Brontë's famous novel 'Wuthering Heights'). <em>(Other areas nearby include Skipton, Colne, Hebden Bridge, Keighley, Bingley, Shipley, Saltaire, Bradford, Halifax, Leeds and Burnley - also the Yorkshire Dales, Worth Valley, Airedale and Calderdale.)</em></p>
+					<p>You can find out more about the local area on <a href="/links/">our links page</a></p>
+					<!-- /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/ -->
+				    <!-- OFFERINGS - OFFERINGS - OFFERINGS - OFFERINGS - OFFERINGS - OFFERINGS -->
+				    <!-- /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/ -->
+				    <?php
+				      $IncludeWidgetRowTitle=true;$IncludeWidgetRowDivide=false;
+					 Include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/sections/widget-row-main.php') ;
+				    ?>
+                </div>
+
+
+            </section>
+
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/site-files/includes/footer.php') ;?>
+
+        </div>
+    </div>
+</body>
+</html>
