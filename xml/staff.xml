@@ -1,0 +1,167 @@
+<staff>
+
+  <person>
+    <id>p001</id>
+    <name>Sandra Johnson</name>
+    <shortdescription>Sandra started the business in 2006 to fulfil a life-long ambition to work with animals. She especially enjoys &lt;a target="_blank" href="/birds-of-prey-learn/school-visit/"&gt;visiting schools and educating children about the birds of prey&lt;/a&gt; and their different qualities. Sandra has a real passion for all the birds, with the owls being her personal favourites. Away from working with birds of prey in a more literal sense, she also likes to draw pictures of the birds and makes them into greeting cards, which we sell in our gift shop; and can even be seen driving up-and-down the country supporting the brand in an SMJ Falconry sign-written horse-box.</shortdescription>
+    <longdescription></longdescription>
+	<smallimage>/site-files/images/staff-images/280x185/sandra-johnson-smj-falconry.jpg</smallimage>
+    <largeimage></largeimage>
+	<favoritebirds>
+	  <bird><id></id><description></description></bird>
+	</favoritebirds>
+	<favoritespecies>
+	  <species><id></id><description></description></species>
+	</favoritespecies>
+	<generalinterests>
+	  <interest></interest>
+	</generalinterests>
+    <url></url>
+    <startdate><day></day><month></month><year></year></startdate>
+  </person>
+  
+  <person>
+    <id>p002</id>
+    <name>Chris Johnson</name>
+    <shortdescription>Chris started falconry as a hobby in 2002, ultimately leading to the start of our business. In 2006 his hobby turned professional when he started working at a Falconry Centre in North Yorkshire doing flying displays and experience days. Next he spent 5 years breeding falcons for the middle-East and developed a passion for incubation (something he hopes to rekindle with some breeding pairs here). He joined SMJ Falconry in 2012 to begin a partnership in the family business and is responsible for overseeing the centre and making sure our birds are in tip-top condition. Chris can usually be found doing &lt;a target="_blank" href="/birds-of-prey-services/displays/"&gt;flying displays&lt;/a&gt;, &lt;a target="_blank" href="/birds-of-prey-learn/school-visit/"&gt;introducing birds of prey to children in schools&lt;/a&gt;, or even &lt;a target="_blank" href="/birds-of-prey-services/pest-control/"&gt;persuading pigeons to move on from the city centre&lt;/a&gt; with a Harris hawk. (The bird Chris is holding in the photograph, taken by Alex Hillier, is Bandit one of our Gyr hybrid falcons.)</shortdescription>
+    <longdescription></longdescription>
+	<smallimage>/site-files/images/staff-images/280x185/chris-johnson-smj-falconry.jpg</smallimage>
+    <largeimage></largeimage>
+	<favoritebirds>
+	  <bird><id></id><description></description></bird>
+	</favoritebirds>
+	<favoritespecies>
+	  <species><id></id><description></description></species>
+	</favoritespecies>
+	<generalinterests>
+	  <interest></interest>
+	</generalinterests>
+    <url></url>
+    <startdate><day></day><month></month><year></year></startdate>
+  </person>
+  
+  
+
+  <person>
+    <id>p003</id>
+    <name>Roger Johnson</name>
+    <shortdescription>Roger has now retired from sorting out insurance contracts! He now works harder than ever keeping everything tidy around the farm, helps during lots of our Shows during the summer and Hunting Days during the Winter. He also is in charge of filling out our Diary and has done a fantastic job at keeping us busy all year round. (The bird Roger is holding in the photograph is Candy our Mackinder's Eagle Owl)</shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/staff-images/280x185/roger-smj-falconry.jpg</smallimage>
+    <largeimage></largeimage>
+    <favoritebirds>
+      <bird>
+        <id></id>
+        <description></description>
+      </bird>
+    </favoritebirds>
+    <favoritespecies>
+      <species>
+        <id></id>
+        <description></description>
+      </species>
+    </favoritespecies>
+    <generalinterests>
+      <interest></interest>
+    </generalinterests>
+    <url></url>
+    <startdate>
+      <day></day>
+      <month></month>
+      <year></year>
+    </startdate>
+  </person>  
+	
+  <person>
+    <id>p004</id>
+    <name>Katy Thompson</name>
+    <shortdescription>Katy joined the team in 2021 after working in retail since leaving school. Katy undertakes all aspects of our work at SMJ Falconry. One of her hobbies is photography and you will see some of her snaps over on our social media pages, she is also a very talented artist and enjoys drawing and painting the birds. Her favourite birds include Stevie the Boobook Owl and Booby the Tropical Screech Owl. </shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/staff-images/280x185/katy-thompson-smj-falconry.jpg</smallimage>
+    <largeimage></largeimage>
+    <favoritebirds>
+      <bird>
+        <id></id>
+        <description></description>
+      </bird>
+    </favoritebirds>
+    <favoritespecies>
+      <species>
+        <id></id>
+        <description></description>
+      </species>
+    </favoritespecies>
+    <generalinterests>
+      <interest></interest>
+    </generalinterests>
+    <url></url>
+    <startdate>
+      <day></day>
+      <month></month>
+      <year></year>
+    </startdate>
+  </person>
+
+
+  <person>
+    <id>p005</id>
+    <name>Steven Hipwell</name>
+    <shortdescription>Steven joined us as a work placement student from Craven college one day a week in June 2019. Steven decided September 2021 college was not what he wanted to do and so he came more regularly helping with gardening and helping with the birds.  He was looking for a job and so he has been working with us part time and more recently full time as we are very busy. He has been working with the training of our Eagle Arlo. He also enjoys flying Bandit one of our Hyrbid falcons and Winston our Snowy Owl.</shortdescription>
+    <longdescription></longdescription>
+	<smallimage>/site-files/images/staff-images/280x185/steven-hipwell-smj-falconry.jpg</smallimage>
+    <largeimage></largeimage>
+	<favoritebirds>
+	  <bird><id></id><description></description></bird>
+	</favoritebirds>
+	<favoritespecies>
+	  <species><id></id><description></description></species>
+	</favoritespecies>
+	<generalinterests>
+	  <interest></interest>
+	</generalinterests>
+    <url></url>
+    <startdate><day></day><month></month><year></year></startdate>
+  </person>
+   
+
+  <person>
+    <id>p006</id>
+    <name>Jess Wilkinson</name>
+    <shortdescription>Jess is our apprentice falconer and has joined the team recently. She is learning very quickly and is growing in confidence everyday. Her favourite bird is Twiglet the Eurasian Scops Owl, she is also enjoying flying a Buzz the Buzzard.</shortdescription>
+    <longdescription></longdescription>
+	<smallimage>/site-files/images/staff-images/280x185/</smallimage>
+    <largeimage></largeimage>
+	<favoritebirds>
+	  <bird><id></id><description></description></bird>
+	</favoritebirds>
+	<favoritespecies>
+	  <species><id></id><description></description></species>
+	</favoritespecies>
+	<generalinterests>
+	  <interest></interest>
+	</generalinterests>
+    <url></url>
+    <startdate><day></day><month></month><year></year></startdate>
+  </person>
+  
+  <person>
+    <id>p007</id>
+    <name>Donald Roper</name>
+    <shortdescription>Donald came to volunteer with us after meeting us at a show in Osset June 2017. He started by helping one day a week and now helps three sometimes 4 days a week. He takes care of much of the day to day cleaning and enjoys flying and working with some of our larger birds, such as Heidi the Eagle Owl and Julianne our Hooded Vulture.</shortdescription>
+    <longdescription></longdescription>
+	<smallimage>/site-files/images/staff-images/280x185/donald-roper-smj-falconry.jpg</smallimage>
+    <largeimage></largeimage>
+	<favoritebirds>
+	  <bird><id></id><description></description></bird>
+	</favoritebirds>
+	<favoritespecies>
+	  <species><id></id><description></description></species>
+	</favoritespecies>
+	<generalinterests>
+	  <interest></interest>
+	</generalinterests>
+    <url></url>
+    <startdate><day></day><month></month><year></year></startdate>
+  </person>
+
+</staff>

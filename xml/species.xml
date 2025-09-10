@@ -1,0 +1,483 @@
+<birdspecies>
+
+  <species>
+    <id>s001</id>
+    <name>Peregrine Falcon</name>
+    <aka></aka>
+    <latinname>Falco Peregrinus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s002</id>
+    <name>Black Kite</name>
+    <aka></aka>
+    <latinname>Milvus Migrans</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s003</id>
+    <name>Gyr/Saker Falcon (Hybrid)</name>
+    <aka></aka>
+    <latinname></latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s004</id>
+    <name>Saker Falcon</name>
+    <aka></aka>
+    <latinname>Falco Cherrug</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s005</id>
+    <name>Harris Hawk</name>
+    <aka></aka>
+    <latinname>Parabuteo Unicinctus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s006</id>
+    <name>Raven</name>
+    <aka></aka>
+    <latinname>Corvus Corax</latinname>
+    <birdofprey>0</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s007</id>
+    <name>Steppe Eagle</name>
+    <aka></aka>
+    <latinname>Aquila Nipalensis</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s008</id>
+    <name>Hooded Vulture</name>
+    <aka></aka>
+    <latinname>Necrosyrtes Monachus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s009</id>
+    <name>Lanner Falcon</name>
+    <aka></aka>
+    <latinname>Falco Biarmicus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s010</id>
+    <name>Peregrine/Saker Falcon (Hybrid)</name>
+    <aka></aka>
+    <latinname></latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s011</id>
+    <name>Red-Footed Falcon</name>
+    <aka></aka>
+    <latinname>Falco Vespertinus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s012</id>
+    <name>Merlin</name>
+    <aka></aka>
+    <latinname>Falco Columbarius</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s013</id>
+    <name>American Kestrel</name>
+    <aka></aka>
+    <latinname>Falco Sparverius</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s014</id>
+    <name>British Kestrel</name>
+    <aka></aka>
+    <latinname>Falco Tinnunculus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s015</id>
+    <name>Barn Owl</name>
+    <aka></aka>
+    <latinname>Tyto Alba</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s016</id>
+    <name>Little Owl</name>
+    <aka></aka>
+    <latinname>Athene Noctua</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s017</id>
+    <name>Ashy-Faced Owl</name>
+    <aka></aka>
+    <latinname>Tyto Glaucops</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s018</id>
+    <name>European Eagle Owl</name>
+    <aka></aka>
+    <latinname>Bubo Bubo</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s019</id>
+    <name>MacKinder's Eagle Owl</name>
+    <aka></aka>
+    <latinname>Bubo Mackinderi</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s020</id>
+    <name>Bengal Eagle Owl</name>
+    <aka>Indian Eagle Owl</aka>
+    <latinname>Bubo Bengalensis</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s021</id>
+    <name>Tawny Owl</name>
+    <aka></aka>
+    <latinname>Strix Aluco</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s022</id>
+    <name>African Spotted Eagle Owl</name>
+    <aka></aka>
+    <latinname>Bubo Africanus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+  
+  <species>
+    <id>s023</id>
+    <name>Red Kite</name>
+    <aka></aka>
+    <latinname>Milvus Milvus</latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+      <area></area>
+    </nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+      <youtube></youtube>
+    </media>
+    <url></url>
+  </species>
+
+  <species>
+    <id>s999</id>
+    <name></name>
+    <aka></aka>
+    <latinname></latinname>
+    <birdofprey>1</birdofprey>
+    <category></category>
+    <nativeto>
+	  <area></area>
+	</nativeto>
+    <shortdescription></shortdescription>
+    <longdescription></longdescription>
+    <smallimage>/site-files/images/bird-species/small/</smallimage>
+    <largeimage>/site-files/images/bird-species/large/</largeimage>
+    <media>
+	  <youtube></youtube>
+	</media>
+    <url></url>
+  </species>
+
+</birdspecies>

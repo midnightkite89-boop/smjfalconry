@@ -1,0 +1,66 @@
+<config>
+  <domain>
+  	<url>http://www.smjfalconry.co.uk</url>
+  </domain>
+  <pages>
+    <page><descr>HOME</descr><url></url></page>
+
+  	<page><descr>EXPERIENCES</descr><url>birds-of-prey-experiences/</url></page>
+  	<page><descr>Experience Day</descr><url>birds-of-prey-experiences/experience-day/</url></page>
+	<page><descr>Falconry Experience</descr><url>birds-of-prey-experiences/falconry-experience/</url></page>
+  	<page><descr>Hawk Walk</descr><url>birds-of-prey-experiences/hawk-walk/</url></page>
+  	<page><descr>Owl Encounter</descr><url>birds-of-prey-experiences/owl-experience/</url></page>
+  	<page><descr>Hunting Day</descr><url>birds-of-prey-experiences/hunting-day/</url></page>
+    <page><descr>Gift Vouchers</descr><url>birds-of-prey-experiences/gift-vouchers/</url></page>	
+
+    <page><descr>SPONSORSHIP</descr><url>birds-of-prey-experiences/sponsorship/</url></page>
+    <page><descr>Sponsor a Small Bird of Prey</descr><url>birds-of-prey-experiences/sponsorship/?s=s</url></page>
+    <page><descr>Sponsor a Medium-Sized Bird of Prey</descr><url>birds-of-prey-experiences/sponsorship/?s=m</url></page>
+    <page><descr>Sponsor a Large Bird of Prey</descr><url>birds-of-prey-experiences/sponsorship/?s=l</url></page>
+    <page><descr>Sponsor Hawk</descr><url>birds-of-prey-experiences/sponsorship/?t=h</url></page>
+    <page><descr>Sponsor Falcon</descr><url>birds-of-prey-experiences/sponsorship/?t=f</url></page>
+    <page><descr>Sponsor Owl</descr><url>birds-of-prey-experiences/sponsorship/?t=o</url></page>
+	
+  	<page><descr>SERVICES</descr><url>birds-of-prey-services/</url></page>
+  	<page><descr>Pest Control</descr><url>birds-of-prey-services/pest-control/</url></page>
+  	<page><descr>Displays</descr><url>birds-of-prey-services/displays/</url></page>
+  	<page><descr>Birthday Party</descr><url>birds-of-prey-services/birthday-party/</url></page>
+  	<page><descr>Wedding</descr><url>birds-of-prey-services/wedding/</url></page>
+  	<page><descr>Corporate Services</descr><url>birds-of-prey-experiences/corporate-events/</url></page>
+  	<page><descr>Photography Workshop</descr><url>birds-of-prey-services/photography-workshops/</url></page>
+  	<page><descr>Film</descr><url>birds-of-prey-services/film/</url></page>
+	
+  	<page><descr>LEARN</descr><url>birds-of-prey-learn//</url></page>
+  	<page><descr>Lantra</descr><url>birds-of-prey-learn/lantra-award/</url></page>
+  	<page><descr>School Visit</descr><url>birds-of-prey-learn/school-visit/</url></page>
+	<page><descr>College &amp; University</descr><url>birds-of-prey-learn/college-university/</url></page>
+	<page><descr>Work Experience</descr><url>birds-of-prey-learn/work-experience/</url></page>	
+
+	<page><descr>SPECIAL OFFERS</descr><url>special-offers/</url></page>
+    <page><descr>SPECIAL DAYS</descr><url>birds-of-prey-special-days/</url></page>
+	<page><descr>Gift Experiences</descr><url>birds-of-prey-special-days/gifts/</url></page>
+    <page><descr>OVERVIEW OF EVENTS</descr><url>overview-of-events/</url></page>
+
+  	<page><descr>ABOUT US</descr><url>about/</url></page>
+    <page><descr>Example Birthday Party</descr><url>about/example-birthday-party/</url></page>
+    <page><descr>Example Experience Day</descr><url>about/example-experience-day/</url></page>
+    <page><descr>Example Owl Encounter</descr><url>about/example-owl-experience/</url></page>
+    <page><descr>Connect on Social Media</descr><url>about/social-media/</url></page>	
+
+	<page><descr>PRESS</descr><url>press/</url></page>
+	<page><descr>Press: School</descr><url>press/?c=school</url></page>
+	<page><descr>Press: Show</descr><url>press/?c=show</url></page>
+	<page><descr>Press: Community</descr><url>press/?c=community</url></page>
+	<page><descr>Press: Film</descr><url>press/?c=film</url></page>
+	
+  	<page><descr>BLOG</descr><url>blog/</url></page>	
+  	<page><descr>GALLERY</descr><url>gallery/</url></page>
+  	<page><descr>CONTACT</descr><url>contact/</url></page>
+  	<page><descr>LINKS</descr><url>links/</url></page>
+  	<page><descr>TERMS &amp; CONDITIONS</descr><url>about/terms/</url></page>
+	
+  	<page><descr>Transaction Successful</descr><url>transactions/</url></page>
+	<page><descr>Transaction Failed</descr><url>transactions/sorry.php</url></page>
+	
+  </pages>
+</config>
