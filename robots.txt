@@ -1,0 +1,29 @@
+User-agent: * 
+
+Sitemap: http://www.smjfalconry.co.uk/sitemap.xml
+
+Disallow: /birds-of-prey-species/little-owl/
+
+Disallow: /about/example-birthday-party/
+Disallow: /about/example-experience-day/
+Disallow: /about/example-owl-experience/
+Disallow: /about/social-media/
+Disallow: /about/terms/
+
+Disallow: /overview-of-events/
+Disallow: /black-friday/
+
+Disallow: /wpimages/
+Disallow: /aspnet_client/
+Disallow: /dev/
+Disallow: /transactions/
+Disallow: /utils/
+Disallow: /xml/
+Disallow: /transactions/
+Disallow: /site-files/includes/
+
+Disallow: /go.php
+
+Disallow: /BingSiteAuth.xml
+Disallow: /googleee2a53f265175ca1.html
+Disallow: /old-index.html
