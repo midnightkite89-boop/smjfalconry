@@ -1,0 +1,96 @@
+
+.font-size(@target: @base-font-size, @context: @base-font-size)
+{
+    font-size: (@target / @context) + 0em;
+}
+
+.line-height(@target: @base-line-height, @context: @base-font-size)
+{
+    line-height: (@target / @context) + 0em;
+}
+
+.sprite(@x, @y, @width, @height, @color: transparent)
+{
+    height: @height;
+    width: @width;
+    background: @color url(../images/sprite.png) -@x -@y no-repeat;
+}
+
+.gradient-linear(@color-start, @color-end: darken(@color-start, 5%))
+{
+    background: @color-start;
+    background: -moz-linear-gradient(top, @color-start 0%, @color-end 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,@color-start), color-stop(100%,@color-end));
+    background: -webkit-linear-gradient(top, @color-start 0%,@color-end 100%);
+    background: -o-linear-gradient(top, @color-start 0%,@color-end 100%);
+    background: -ms-linear-gradient(top, @color-start 0%,@color-end 100%);
+    background: linear-gradient(to bottom, @color-start 0%,@color-end 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@color-start', endColorstr='@color-end', GradientType=0);
+}
+
+// Placeholder text
+.placeholder(@color: @color-input-placeholder)
+{
+    &:-moz-placeholder
+    {
+        color: @color;
+    }
+    // Firefox 4-18
+    &::-moz-placeholder
+    {
+        color: @color;
+    }
+    // Firefox 19+
+    &:-ms-input-placeholder
+    {
+        color: @color;
+    }
+    // Internet Explorer 10+
+    &::-webkit-input-placeholder
+    {
+        color: @color;
+    }
+    // Safari and Chrome
+}
+
+
+.underline(@color)
+{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    overflow: hidden;
+
+    &:before
+    {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        left: 50%;
+        right: 50%;
+        bottom: 0;
+        background: @color;
+        height: 4px;
+        -webkit-transition-property: left, right;
+        transition-property: left, right;
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-timing-function: ease-out;
+        transition-timing-function: ease-out;
+    }
+
+    &:hover, &:focus, &:active, &.active
+    {
+        &:before
+        {
+            left: 0;
+            right: 0;
+        }
+    }
+}

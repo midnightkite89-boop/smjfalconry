@@ -1,0 +1,70 @@
+.wray-gal
+{
+    padding: 15px 0;
+    text-align: center;
+    -webkit-transition: height ease-out 2s;
+    -moz-transition: height ease-out 2s;
+    -o-transition: height ease-out 2s;
+    transition: height ease-out 2s;
+    margin-bottom: 25px;
+
+    img
+    {
+        border: 1px solid #000;
+        cursor: pointer;
+    }
+
+    .wray-thumbs
+    {
+        img
+        {
+            margin-bottom: 4px;
+            opacity: 0;
+        }
+    }
+
+    .wray-nav
+    {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+    }
+
+
+
+
+    .wray-over
+    {
+        display: none;
+        position: relative;
+
+        .wray-caption
+        {
+            text-align: center;
+            color: @body;
+            font-size: 100%;
+        }
+
+        .wray-close, .wray-prev, .wray-next
+        {
+            cursor: pointer;
+            color: #fff;
+            background: @brand-orange;
+            padding: 10px;
+			
+			&:hover {background: @brand-dark-brown;}
+			
+        }
+    }
+}
+
+
+@media (max-width:420px)
+{
+    .wray-gal .wray-thumbs img
+    {
+        width: 49%;
+    }
+}

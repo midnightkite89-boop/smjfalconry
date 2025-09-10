@@ -1,0 +1,30 @@
+.blog-post
+{
+    padding: 15px;
+    
+	
+	&:not(:last-of-type)
+	{
+	    border-bottom:1px solid @brand-dark-brown;
+	}
+	
+    &:nth-child(2n+1)
+    {
+        background: #e7e7e7;
+    }
+
+    &:last-child {
+        margin-bottom:25px;
+    }
+
+    h5 {
+         .font-size(14);
+    }
+}
+
+@media (max-width:767px) {
+    .blog-post {
+        padding: 15px;
+  margin: 0 -15px;
+    }
+}

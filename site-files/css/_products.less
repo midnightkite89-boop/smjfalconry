@@ -1,0 +1,72 @@
+.price-option
+{
+    margin-bottom:15px;
+
+
+    h4 {
+        margin:15px 0 10px;
+    }
+
+
+    label
+    {
+        display: block;
+    }
+
+    .qty-box {
+        width:50px;
+        text-align:center;
+        margin-right:10px;
+    }
+
+    .add-to-cart
+    {
+        position: relative;
+        display:inline-block;
+        width:39px;
+        height:34px;
+        cursor:pointer;
+
+        &:before
+        {
+            content: '\f217';
+            font-family: 'FontAwesome';
+            color: @brand-orange;
+            font-size: 42px;
+            position: absolute;
+            top: -6px;
+            left: 0;
+            line-height: 42px;
+        }
+
+        &:hover {
+            &:before {
+                color:@body;
+            }
+        }
+    }
+
+  .product-cart-qtys input {
+	width:40px; 	 
+	text-align:center;
+  }  
+}
+
+@media (min-width:481px)
+{
+
+    .price-option
+    {
+        float: left;
+        margin-right: 1%;
+        width: 49%;
+
+        &:last-child {
+            margin: 0 0 0 1%;
+        }
+
+        h4 {
+            min-height:44px;
+        }
+    }
+}

@@ -1,0 +1,120 @@
+footer {
+
+  border-top: 5px solid #ccc;
+  color: #fff;
+  
+  h1, h2, h3, h4, h5, h6, p, span, label, a {color: #fff;}
+	  
+  .footer-main {
+    background: @body url(/site-files/images/silhouette.png) no-repeat bottom center;
+	padding: 20px 0 25px 0;
+  }
+  
+  .footer-inner {position: relative;}
+  .footer-heading {.font-size(22) !important;}
+  
+  .footer-links {
+  
+    text-align: center; .font-size(15);	font-weight: bold;
+	margin-bottom: 20px;
+	
+    ul {list-style: none; margin: 0; padding: 0;
+	  
+	  li {display: inline-block;
+		
+		a:after {
+		    content: '~';
+			margin-left: 4px;
+			color: #fff;
+			display: inline-block;
+		}
+		
+		&:last-child a:after {display: none;}
+		  
+	  } // end: li
+    } // end: ul
+  } // end: footer-links
+  
+  .contact-form {
+	
+	input, textarea {
+	  display: block; width: 100%;
+	  border: none; border-radius: 5px;
+	  margin-bottom: 5px; padding: 4px;
+	  color: #000; background: #fff; opacity: 0.6;
+	  &:focus {opacity: 0.8;}
+	}
+	
+    .error-input {
+	  -webkit-box-shadow: 0 0 5px 2px red inset;
+	  -moz-box-shadow: 0 0 5px 2px red inset;
+	  box-shadow: 0 0 5px 2px red inset;
+    }
+	
+	label {display: block; margin: 0 0 2px;}
+  
+  } // end: contact-form
+
+  
+  .social-links {
+    
+	text-align: left;
+	.font-size(35);
+	clear: both;
+	
+	a {
+	
+	  display: inline-block;
+	  margin-right: 10px;
+	  &:last-child {margin-right: 0;}
+	  &:hover, &:active, &:focus {
+	    .fa-facebook-official {color: #3B5998;}
+		.fa-twitter {color: #55acee;}
+		.fa-google-plus {color: #DD4B39;}
+		.fa-linkedin {color: #0177B5;}
+		.fa-youtube {color: #D62424;}
+	  }
+	} // end: a
+  } // end: social links
+
+
+  .footer-base {
+	padding: 20px 0;
+	background: @brand-dark-brown;
+	color: #fff;
+	.container {position: relative;}
+	p {margin: 0; font-weight: bold;}
+  }
+  
+} // end: footer
+
+
+
+@media (max-width:400px) {
+  footer .social-links, footer .footer-links {text-align: left;}
+}
+
+
+
+@media (min-width:481px) {
+  footer {
+    .footer-inner {position:relative; padding-bottom:0;}
+	.social-links {float: right;text-align: right;}
+	.footer-base {
+	  .container {padding: 0px 195px 0px 15px;}	  
+	  .social-links {position: absolute; top: -12px; right: 15px;}
+	} // end: footer-base
+  } // end: footer
+} // end: media query
+
+
+
+@media (min-width:768px) {
+  footer .footer-links {.font-size(17);}
+  .contact-form label, .contact-form h1, .contact-form h2, .contact-form h3 {text-align:right;}
+}
+
+
+@media (max-width:767px) {
+  .contact-form {max-width:500px;}
+}
